@@ -7,7 +7,7 @@
     "400",
     "600"
   ],
-  "footer": "<a href=\"http://beian.miit.gov.cn/\">OPENWRT By Scolate</a>",
+  "footer": "OPENWRT By Scolate",
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
