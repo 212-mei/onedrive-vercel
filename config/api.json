@@ -3,5 +3,5 @@
   "redirectUri": "http://localhost",
   "base": "/",
   "authApi": "https://login.chinacloudapi.cn/common/oauth2/v2.0/token",
-  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/experience.sharepoint.cn,6777a990-590f-41da-b18a-932e786e3876,87ac640c-1269-4a97-886c-2a64be36fefd/drive"
+  "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/sites/experience.sharepoint.cn,8755fcf6-cc06-4118-b600-9a72098015b0,13e49855-880d-4733-965a-4a6180d12f79/drive"
 }
