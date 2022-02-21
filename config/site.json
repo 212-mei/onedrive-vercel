@@ -1,20 +1,20 @@
 {
   "icon": "/icons/icon.png",
-  "title": "Libv Download",
+  "title": "OPENWRT Download",
   "maxItems": 100,
   "googleFont": "Rubik",
   "googleFontWeights": [
     "400",
     "600"
   ],
-  "footer": "<a href=\"http://beian.miit.gov.cn/\">粤ICP备19084442号-3</a>",
+  "footer": "<a href=\"http://beian.miit.gov.cn/\">OPENWRT By Scolate</a>",
   "protectedRoutes": [
     "/🌞 Private folder/u-need-a-password",
     "/🥟 Some test files/Protected route"
   ],
   "contact": {
-    "email": "mailto:libv@miaodiapp.com",
-    "telegram": "https://jq.qq.com/?_wv=1027&k=gdGYvBMJ",
-    "github": "https://github.com/Libv-MiaD"
+    "email": "mailto:rtf@live.com",
+    "telegram": "https://jq.qq.com/?_wv=1027&k=H7Wd6Asy",
+    "github": "https://github.com"
   }
 }
