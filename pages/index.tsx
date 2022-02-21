@@ -15,7 +15,7 @@ export default function Home() {
             var _hmt = _hmt || [];
             (function() {
               var hm = document.createElement("script");
-              hm.src = "https://hm.baidu.com/hm.js?a9e2f0db35e95bf03a813ccfee1bcb26";
+              hm.src = "https://hm.baidu.com/hm.js?043ea612e2b606b4071e35f85bc057ca";
               var s = document.getElementsByTagName("script")[0]; 
               s.parentNode.insertBefore(hm, s);
             })();
